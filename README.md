@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Antônio Eduardo Cintra Ferraz , Bachelor in systems analysis and development at Estácio University.
+My name is Antônio Eduardo Cintra Ferraz , I'm Bachelor in systems analysis and development at Estácio University.
 
 I'm passionate in solve problems and learning , I'm  always seeking to improve, to be better day after day.
 
