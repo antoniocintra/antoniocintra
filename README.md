@@ -1,4 +1,4 @@
-## Seja muito bem-vindo ao meu repositorio! 👋
+## Seja muito bem-vindo ao meu repositorio! 👋 <img align="right" width ="300" height="200"  src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 
 Me chamo Antônio Eduardo Cintra Ferraz, movido pela paixão por tecnologia e inovação. Busco incessantemente  absorver novos conhecimentos e aplicá-los em projetos práticos. Esta busca incessante por aprendizado e a aplicação prática dessas habilidades são elementos fundamentais que impulsionam meu crescimento profissional.
 
@@ -6,6 +6,7 @@ Me chamo Antônio Eduardo Cintra Ferraz, movido pela paixão por tecnologia e in
 ## Formação 
 
 🧑🏽‍🎓 Possuo formação em Análise e Desenvolvimento de Sistemas pela Universidade Estácio.
+
 💻 Atualmente estou em formação  no curso de Desenvolvedor Fullstack pela Cubos Academy.
 
 
@@ -21,4 +22,4 @@ Me chamo Antônio Eduardo Cintra Ferraz, movido pela paixão por tecnologia e in
 <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src = "https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-<img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
