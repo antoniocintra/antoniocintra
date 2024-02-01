@@ -7,7 +7,7 @@ Me chamo Antônio Eduardo Cintra Ferraz, movido pela paixão por tecnologia e in
 
 🧑🏽‍🎓 Possuo formação em Análise e Desenvolvimento de Sistemas pela Universidade Estácio.
 
-💻 Atualmente estou em formação  no curso de Desenvolvedor Fullstack pela Cubos Academy.
+💻 Desenvolvedor Fullstack pela Cubos Academy.
 
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocintra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
