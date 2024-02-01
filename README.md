@@ -1,6 +1,6 @@
 ## Seja muito bem-vindo ao meu repositorio! 👋 <img align="right" width ="300" height="200"  src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 
-Me chamo Antônio Eduardo Cintra Ferraz, movido pela paixão por tecnologia e inovação. Busco incessantemente  absorver novos conhecimentos e aplicá-los em projetos práticos. Esta busca incessante por aprendizado e a aplicação prática dessas habilidades são elementos fundamentais que impulsionam meu crescimento profissional.
+Meu nome é Antônio Eduardo Cintra Ferraz, e minha trajetória é marcada pela ardente paixão por tecnologia e inovação. Tenho uma busca incansável por absorver novos conhecimentos, os quais aplico de maneira efetiva em projetos práticos. A incessante busca pelo aprendizado contínuo e pela aplicação prática dessas habilidades são pilares essenciais que impulsionam meu desenvolvimento profissional.
 
 
 ## Formação 
