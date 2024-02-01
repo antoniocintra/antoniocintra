@@ -1,4 +1,4 @@
-## Seja muito bem-vindo ao meu repositorio! 👋 <img align="right" width ="250" height="150"  src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+## Seja muito bem-vindo ao meu repositorio! 👋 <img align="right" width ="300" height="200"  src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 
 Me chamo Antônio Eduardo Cintra Ferraz, movido pela paixão por tecnologia e inovação. Busco incessantemente  absorver novos conhecimentos e aplicá-los em projetos práticos. Esta busca incessante por aprendizado e a aplicação prática dessas habilidades são elementos fundamentais que impulsionam meu crescimento profissional.
 
