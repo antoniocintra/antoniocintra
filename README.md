@@ -15,7 +15,6 @@
 🧑🏽‍🎓 Possuo formação em Análise e Desenvolvimento de Sistemas pela Universidade Estácio e formação como Desenvolvedor Full Stack pela Cubos Academy.
 
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocintra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias 
 
